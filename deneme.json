@@ -1,0 +1,14 @@
+{
+   "tokat":[
+      {
+         "isim":"Saat Kulesi",
+         "aciklama":"Yozgatın merkezinde bulunur...",
+         "fotourl":"https://raw.githubusercontent.com/turanyasar/mobilodev/master/kule500px.png"
+      },
+      {
+         "isim":"Çamlık Milli Parkı",
+         "aciklama":"Türkiyenin ilk milli parkıdır...",
+         "fotourl":"https://raw.githubusercontent.com/turanyasar/mobilodev/master/camlik500px.png"
+      }
+   ]
+}
